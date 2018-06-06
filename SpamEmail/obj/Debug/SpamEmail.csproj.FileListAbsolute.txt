@@ -1,0 +1,15 @@
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\bin\Debug\SpamEmail.exe.config
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\bin\Debug\SpamEmail.exe
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\bin\Debug\SpamEmail.pdb
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\SpamEmail.csprojResolveAssemblyReference.cache
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\MainWindow.g.cs
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\App.g.cs
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\SpamEmail_MarkupCompile.cache
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\SpamEmail_MarkupCompile.lref
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\MainWindow.baml
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\SpamEmail.g.resources
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\SpamEmail.Properties.Resources.resources
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\SpamEmail.csproj.GenerateResource.cache
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\SpamEmail.csproj.CoreCompileInputs.cache
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\SpamEmail.exe
+C:\Users\едиген\source\repos\SpamEmail\SpamEmail\obj\Debug\SpamEmail.pdb

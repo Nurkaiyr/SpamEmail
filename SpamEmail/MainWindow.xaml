@@ -1,0 +1,26 @@
+﻿<Window x:Class="SpamEmail.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SpamEmail"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="458.077" Width="810.385">
+    <Grid Margin="0,0,-8,2">
+        <Label Content="From" HorizontalAlignment="Left" Margin="37,29,0,0" VerticalAlignment="Top"/>
+        <Label Content="To" HorizontalAlignment="Left" Margin="37,60,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="fromTxtBlock" HorizontalAlignment="Left" Height="23" Margin="99,35,0,0" TextWrapping="Wrap" Text="smtptesteritstep@gmail.com" VerticalAlignment="Top" Width="188"/>
+        <TextBox   Name="toTxtBlock" HorizontalAlignment="Left" Height="23" Margin="99,63,0,0" TextWrapping="Wrap" Text="lurax@mail.ru" VerticalAlignment="Top" Width="188"/>
+        <Label Content="Theme" HorizontalAlignment="Left" Margin="37,91,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="themeTxtBlock" HorizontalAlignment="Left" Height="23" Margin="99,94,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="188"/>
+        <TextBox Name="messageTxtBlock" HorizontalAlignment="Left" Height="186" Margin="99,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="361"/>
+        <Button Click="Button_Click" Content="Отправить" HorizontalAlignment="Left" Margin="651,366,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="-0.367,-0.385" Height="42"/>
+        <Button Click="Button_Click_Attachment" Content="Прикрепить файл" HorizontalAlignment="Left" Margin="37,381,0,0" VerticalAlignment="Top" Width="120" Height="28"/>
+        <Label Content="Message" HorizontalAlignment="Left" Margin="37,138,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txtAttachment" HorizontalAlignment="Left" Height="28" Margin="166,381,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="361"/>
+        <Label Content="Влажения" HorizontalAlignment="Left" Margin="37,347,0,0" VerticalAlignment="Top"/>
+        <Label Content="Путь к файлу" HorizontalAlignment="Left" Margin="166,347,0,0" VerticalAlignment="Top" Width="121"/>
+
+
+    </Grid>
+</Window>
